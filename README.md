@@ -33,7 +33,7 @@ yolo detect predict model=best.pt source="path/to/image.jpg"
 
 The output with bounding boxes will be saved inside the runs/detect/predict folder.
 
-📖 Acknowledgements
+## 📖 Acknowledgements
 
 YOLOv8 by Ultralytics
 
