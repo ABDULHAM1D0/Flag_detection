@@ -22,7 +22,9 @@ pip install ultralytics opencv-python
 
 If you want to retrain the model on your own dataset:
 
-```yolo detect train data=flags.yaml model=yolov8n.pt epochs=50 imgsz=640```
+```bash
+yolo detect train data=flags.yaml model=yolov8n.pt epochs=50 imgsz=640
+```
 
 ## 🔍 Inference
 
