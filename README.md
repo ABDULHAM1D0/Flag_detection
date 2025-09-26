@@ -8,13 +8,6 @@ This project uses YOLOv8 to detect different country flags in images. The datase
 - Trained with a custom dataset of manually collected + Kaggle-sourced images.
 - Simple inference pipeline for running detection on any image.
 
-## 📦 Installation
-
-Clone the repository and install the required dependencies:
-
-git clone https://github.com/yourusername/flag-detector.git
-cd flag-detector
-pip install ultralytics opencv-python
 
 ## 🏋️ Training
 
