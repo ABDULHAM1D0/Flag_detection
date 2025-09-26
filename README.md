@@ -4,11 +4,9 @@ This project uses YOLOv8 to detect different country flags in images. The datase
 
 ## 🚀 Features
 
-Detects multiple country flags in an image.
-
-Trained with a custom dataset of manually collected + Kaggle-sourced images.
-
-Simple inference pipeline for running detection on any image.
+- Detects multiple country flags in an image.
+- Trained with a custom dataset of manually collected + Kaggle-sourced images.
+- Simple inference pipeline for running detection on any image.
 
 ## 📦 Installation
 
