@@ -18,13 +18,9 @@ yolo detect train data=flags.yaml model=yolov8n.pt epochs=50 imgsz=640
 ```
 
 ## 🔍 Inference
-
-Run detection on an image:
-
-yolo detect predict model=best.pt source="path/to/image.jpg"
-
-
-The output with bounding boxes will be saved inside the runs/detect/predict folder.
+- Run detection on an image:
+- yolo detect predict model=best.pt source="path/to/image.jpg"
+- The output with bounding boxes will be saved inside the runs/detect/predict folder.
 
 ## 📖 Acknowledgements
 
