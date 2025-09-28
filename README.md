@@ -23,6 +23,6 @@ yolo detect train data=flags.yaml model=yolov8n.pt epochs=50 imgsz=640
 - The output with bounding boxes will be saved inside the runs/detect/predict folder.
 
 ## 📖 Acknowledgements
-- YOLOv8 by Ultralytics
-- Roboflow for labeling tools
-- Dataset partially from Kaggle + manually collected images
+- YOLOv8 by Ultralytics.
+- Roboflow for labeling tools.
+- Dataset partially from Kaggle + manually collected images.
